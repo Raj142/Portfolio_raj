@@ -18,7 +18,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Raj142",
   linkedin: "https://www.linkedin.com/in/raj-valand-477658139/",
-  twitter: "https://twitter.com/jessie_anh_ng",
+  twitter: "https://twitter.com/RajZz14",
   // Instagram and Twitter are also supported in the links!
 };
 
